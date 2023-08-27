@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmarAlmasri
-- 👀 I’m interested in Cyber Security,Software Engineering,AI,Web Development and Gaming.
-- 🌱 I’m currently learning Kali Linux,Cyber Secutity,Front End & Back End Development and Python.
-- 💞️ I am looking forward to cooperate in the development of software engineering, artificial intelligence and cybersecurity
+- 👀 I’m interested in Cyber Security and Software Engineering.
+- 🌱 I’m currently learning Cyber Secutity and Back-end development.
+- 💞️ I am looking forward to cooperate in the development of software engineering and cybersecurity.
 - 📫 How to reach me: epicoomar@gmail.com
 
 <!---
